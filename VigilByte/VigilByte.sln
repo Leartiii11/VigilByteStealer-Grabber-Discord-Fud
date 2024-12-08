@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9180D21E-81CE-416C-8541-566AF8E4FFE0}") = "VigilByte", "VigilByte.csproj", "{D0748C3C-AC35-4242-8082-29D94BBE9C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0748C3C-AC35-4242-8082-29D94BBE9C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0748C3C-AC35-4242-8082-29D94BBE9C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0748C3C-AC35-4242-8082-29D94BBE9C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0748C3C-AC35-4242-8082-29D94BBE9C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962DD06E-69F1-4B94-8E4F-D87752964DA6}
+	EndGlobalSection
+EndGlobal
