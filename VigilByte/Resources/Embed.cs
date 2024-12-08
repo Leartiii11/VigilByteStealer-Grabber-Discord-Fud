@@ -60,3 +60,4 @@ namespace Luci4
         public string icon_url;
     }
 }
+
