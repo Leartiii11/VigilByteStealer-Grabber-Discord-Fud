@@ -105,3 +105,4 @@ namespace BlitzedConfuser.Protections
         };
     }
 }
+
