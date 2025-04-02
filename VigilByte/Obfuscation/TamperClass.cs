@@ -30,3 +30,4 @@ namespace BlitzedConfuser.Utils
         }
     }
 }
+
