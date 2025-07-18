@@ -240,3 +240,4 @@ namespace BlitzedConfuser.Utils
         }
     }
 }
+
